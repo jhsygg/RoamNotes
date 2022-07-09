@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f4bb8c03-1201-458c-a4b3-9b0a5fe94cc1
+:END:
+#+title: 台阶坡面角
+台阶坡面与水平面的夹角。

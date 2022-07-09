@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       a24e8cd1-526d-48f4-a5a5-3da6cf4eaee8
+:END:
+#+title: 最小抵抗线
+从装药重心到自由面的最短距离。

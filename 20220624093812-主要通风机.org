@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f9f63752-ae8a-4ce5-acaa-a40897ce743e
+:END:
+#+title: 主要通风机
+安装在地面的，向全矿井、一翼或1个分区供风的通风机。

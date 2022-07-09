@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       cd0a5af6-2f15-4d92-a07c-5d90b09514cb
+:END:
+#+title: 原岩
+未受采掘影响的天然岩体。

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       9942de60-c98b-42d5-83a4-76bc6fb0744e
+:END:
+#+title: 塌落
+边帮局部岩体突然片落的现象。

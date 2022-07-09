@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       6eb1b561-9672-4f49-8e57-51adf34fde91
+:END:
+#+title: 矿长
+XXX

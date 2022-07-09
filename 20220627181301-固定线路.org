@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       13d4a72f-00b7-417f-a5ee-17dd2e547b0a
+:END:
+#+title: 固定线路
+长期固定不移动的运输线路。

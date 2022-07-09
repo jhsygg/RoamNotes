@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       0feefd45-e679-4abb-8fe4-546f8cebbce8
+:END:
+#+title: MT 1082-2007 煤炭产量远程监测系统通用技术要求

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2f73aa3f-9ef1-4d8a-9b35-08d6ecc01f72
+:END:
+#+title: 露天采场
+具有完整的生产系统，进行露天开采的场所。

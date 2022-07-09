@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       a74a5333-4db0-457c-8fc9-9d6b7e86c31d
+:END:
+#+title: 拒爆(瞎炮)
+起爆后，爆炸材料未发生爆炸的现象。

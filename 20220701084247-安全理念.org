@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       0a9caf04-c1d5-48a0-9892-e70fd7d5d06e
+:END:
+#+title: 安全理念
+无危为安、无缺则全。

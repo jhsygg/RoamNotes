@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       a32ce46c-540b-4361-a537-793f7e0f50b1
+:END:
+#+title: 照片档案管理规范 GB/T 11821

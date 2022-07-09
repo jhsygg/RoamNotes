@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       4c9bb8ee-6dba-4074-8419-abdb62db3fe2
+:END:
+#+title: 阻车器(挡车器)
+装在轨道侧旁或罐笼、翻车机内使矿车停车、定位的装置。

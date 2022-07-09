@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       be6d67bc-1fde-443d-8e90-c374dfde37a2
+:END:
+#+title: 电机车
+架线电机车和蓄电池电机车的总称。

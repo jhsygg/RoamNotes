@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f3f1e8eb-35eb-4648-867e-6a649bf49f60
+:END:
+#+title: 电力牵引
+用电能作为铁路运输动力能源的牵引方式。

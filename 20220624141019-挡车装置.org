@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e9cd7ec4-b4f6-4878-9aa6-41cdaa9165e1
+:END:
+#+title: 挡车装置
+阻车器和挡车栏等的总称。

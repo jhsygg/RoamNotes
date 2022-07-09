@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       9f1edad0-81cc-4558-a031-1c2bed7f0fac
+:END:
+#+title: DB15/T 1607.1-2019 基于物联网的煤炭物流信息应用技术规范 第1部分：业务流程概述

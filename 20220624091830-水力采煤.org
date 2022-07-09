@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       17fbef0f-deaf-415c-a0a7-d902b4229ade
+:END:
+#+title: 水力采煤
+利用水力或水力机械开采和水力或机械运输提升的机械化采煤技术。

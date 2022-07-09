@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       aee53fc2-cbcc-41fd-abc5-97a7480ad2da
+:END:
+#+title: 接地电阻
+接地电压与通过接地极流入大地电流值之比。

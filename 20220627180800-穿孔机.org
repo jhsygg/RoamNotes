@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e9e90be0-6e2e-45f8-89b3-b39ca1a40ac1
+:END:
+#+title: 穿孔机
+露天煤矿钻孔的设备。

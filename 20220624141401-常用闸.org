@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       53a13be0-c03c-4844-9f08-ffec8e2b73d3
+:END:
+#+title: 常用闸
+绞车正常操作控制用的工作闸。

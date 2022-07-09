@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       c481ebde-fae5-4f5d-be3d-9120a405923d
+:END:
+#+title: 平盘(平台)
+台阶的水平部分。

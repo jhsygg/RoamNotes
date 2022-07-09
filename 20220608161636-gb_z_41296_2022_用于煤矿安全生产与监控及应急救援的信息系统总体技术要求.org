@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       e57e2fab-df3f-4a1a-b258-d35457c4b099
+:END:
+#+title: GB/Z 41296-2022 用于煤矿安全生产与监控及应急救援的信息系统总体技术要求

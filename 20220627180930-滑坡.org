@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       c68c2b17-814b-403b-8f8b-c37a41b65aa4
+:END:
+#+title: 滑坡
+边帮岩体沿滑动面滑动的现象。

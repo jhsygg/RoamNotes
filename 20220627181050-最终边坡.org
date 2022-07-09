@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       fee00e4f-a38e-4f0b-800e-6b93ca0a110c
+:END:
+#+title: 最终边坡
+露天采场开采结束时的边坡。

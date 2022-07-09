@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       47daf78f-55d2-477e-81d3-dcc243307d75
+:END:
+#+title: 台阶高度
+台阶上、下平盘之间的垂直距离。

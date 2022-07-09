@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       6dcf815f-3d7e-4aa9-92c3-4fbd138f9e60
+:END:
+#+title: 主要风巷
+总进风巷、总回风巷、主要进风巷和主要回风巷的总称。

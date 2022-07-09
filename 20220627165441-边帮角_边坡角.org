@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       3b0bb488-3049-45eb-ab76-0ab9b6316f8d
+:END:
+#+title: 边帮角(边坡角)
+边帮面与水平面的夹角。

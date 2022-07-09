@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       510f2556-3fca-4e43-b7dc-ba8c4dea9303
+:END:
+#+title: 呼吸性粉尘
+能被吸入人体肺泡区的浮尘。

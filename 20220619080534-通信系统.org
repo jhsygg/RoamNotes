@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       9163562a-e33c-41df-8ae0-12863d7ff8df
+:END:
+#+title: 通信系统

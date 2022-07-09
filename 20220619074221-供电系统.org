@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       1e2f69f3-cfb5-4e4c-a152-03c5e2a0d2e6
+:END:
+#+title: 供电系统

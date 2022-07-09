@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       cb36305c-ee1c-4df9-ac7c-3e4942b7b0f6
+:END:
+#+title: 掘进工作面的风流
+掘进工作面到风筒出风口这一段巷道中的风流。

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e331699f-9a8d-4927-af0b-dac74a0ae8bb
+:END:
+#+title: 折返坑线
+运输设备运行中按”之”字形改变运行方向的坑线。

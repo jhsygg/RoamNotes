@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b85261ed-3f5e-4ede-87e1-1212c7975a5d
+:END:
+#+title: 内部排土场
+建在露天采场以内的排土场。

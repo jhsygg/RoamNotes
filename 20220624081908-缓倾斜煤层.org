@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       22eff1c1-ecda-46e0-8427-8eedbe404abb
+:END:
+#+title: 缓倾斜煤层
+地下开采时倾角8°～25°的煤层；露天开采时倾角5°～10°的煤层。

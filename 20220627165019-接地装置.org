@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       541dad1e-d74a-4e4c-a6bc-087b04d40a11
+:END:
+#+title: 接地装置
+各接地极和接地导线、接地引线的总称。

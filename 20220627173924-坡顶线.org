@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       8e7411e4-f8f8-46e1-a56d-9eb145f86cac
+:END:
+#+title: 坡顶线
+台阶上部平盘与坡面的交线。

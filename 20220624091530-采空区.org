@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       ebfa60e6-8d43-4f48-a6ec-afa769a097e3
+:END:
+#+title: 采空区
+回采以后不再维护的空间。

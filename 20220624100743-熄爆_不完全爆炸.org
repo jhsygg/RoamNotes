@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       ca1debb0-495e-48e2-9caf-d0212cb867ef
+:END:
+#+title: 熄爆(不完全爆炸)
+爆轰波不能沿炸药继续传播而中止的现象。

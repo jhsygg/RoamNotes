@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       55e7c87d-c4dd-4e14-9f05-e0f9a9643840
+:END:
+#+title: 煤矿自然发火束管监测系统通用技术条件

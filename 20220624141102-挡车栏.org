@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       106eddcf-cca1-4cd8-a9ba-9b11f6d568eb
+:END:
+#+title: 挡车栏
+安装在上、下山，防止矿车跑车事故的安全装置。

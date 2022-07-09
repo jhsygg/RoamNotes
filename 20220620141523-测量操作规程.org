@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       9d82dbdd-d4b6-4ed8-821b-9ea4e15d70a1
+:END:
+#+title: 测量操作规程

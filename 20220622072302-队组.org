@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8a11ef2a-cf90-451b-a001-c88af1433c7d
+:END:
+#+title: 队组
+掘进一队
+掘进二队
+巷修队

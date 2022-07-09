@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       6843937d-d155-40c6-ae6c-3e78e616dc5d
+:END:
+#+title: Inbox
+* 今天准备编写“工伤保险购买策略”

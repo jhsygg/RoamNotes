@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       b625f480-4ed4-4ad5-9991-78996245b1b4
+:END:
+#+title: 请假申请表

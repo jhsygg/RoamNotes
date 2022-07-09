@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b7ad89cb-f6c2-48f5-8992-ce80cb3f871a
+:END:
+#+title: 机车
+架线电机车、蒸汽机车、蓄电池电机车和内燃机车的总称。

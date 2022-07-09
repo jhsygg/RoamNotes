@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       90fb36e2-1c15-44d5-a2f1-6b5ae03c0d4b
+:END:
+#+title: 通信联络系统

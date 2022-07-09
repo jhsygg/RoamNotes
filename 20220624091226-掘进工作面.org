@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       8ec91215-ebb1-4ed5-999a-fcc24402ae25
+:END:
+#+title: 掘进工作面
+采煤工作面和掘进工作面的总称。

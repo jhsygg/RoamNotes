@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       bb7e03bd-a54f-4ee4-b5e0-a1bc77b31a25
+:END:
+#+title: 外部排土场
+建在露天采场以外的排土场。

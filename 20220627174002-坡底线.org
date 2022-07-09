@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       523beb94-b17b-4592-a31e-8fc89c7e9664
+:END:
+#+title: 坡底线
+台阶下部平盘与坡面的交线。

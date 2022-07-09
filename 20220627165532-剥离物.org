@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       9b84198d-11d6-42c1-8ace-c0137aca649a
+:END:
+#+title: 剥离物
+露天采场内的表土、岩层和不可采矿体。

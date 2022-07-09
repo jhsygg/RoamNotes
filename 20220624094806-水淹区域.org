@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       dc66fb9d-af03-4ab1-bf57-a7e7af09f398
+:END:
+#+title: 水淹区域
+被水淹没的井巷和被水淹没的老空的总称。

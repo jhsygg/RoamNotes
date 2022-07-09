@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       ccf73555-12e4-4b2a-b975-6acdce53f65a
+:END:
+#+title: 安全水头值
+隔水层能承受含水层的最大水头压力值。
